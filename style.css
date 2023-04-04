@@ -17,3 +17,20 @@
 #game_btn{
 font-size: 22px;
 }
+
+.copy-right-footer{
+  width: 100%;
+  background-color: yellow;
+}
+
+h4{
+  background-color: blueviolet;
+  line-height: 2;
+  width: 90%;
+  }
+
+  #restart_btn{
+    font-size: 20px;
+  }
+
+  
